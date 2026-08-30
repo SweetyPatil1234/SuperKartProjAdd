@@ -1,0 +1,5 @@
+{
+    "best_model": "Random Forest",
+    "best_r2_score": 0.9304,
+    "model_path": "SuperKart/models/best_model.pkl"
+}
